@@ -8,8 +8,3 @@ Source:
 
 Dataset: Shoes's Data with 19000 rows and 47 columns
 
-Team Members:
-- Janki Thakkar
-- Neha Taneja
-- Pujeetha Jakka 
-- Sayed Shazeb
